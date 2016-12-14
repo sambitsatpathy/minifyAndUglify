@@ -9,6 +9,7 @@ If this doesn't work for you, you may need to prefix the command with sudo to gr
 
 Once installed add your Js files under script folder and Css files under style folder. Then run
 > npm install gulp
+
 > gulp start
 
 Choose your options (using numbers or space) and then press Enter to execute the script.
